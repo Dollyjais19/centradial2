@@ -1,0 +1,7 @@
+{
+  "name": "CentraDial - Emotional Security Assistant",
+  "description": "A calm, therapist-like AI safety assistant that detects emotional manipulation and scam patterns in conversations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
